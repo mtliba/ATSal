@@ -59,6 +59,14 @@ ATSal expert models trained on Salient360! and VR-EyeTracking video dataset:
 * [[ATSal-experts-Poles (100 MB)]]()
 * [[ATSal-experts-Equator (100 MB)]]()
 
+## DATASETS:
+
+*link to augmented Salient360! and Sitzman image dataset:
+[augmented-static-dataset](http://)
+
+*link to reproduced VR-EYETRACKING DATASETS:
+[VR-EYETRACKING](http://)
+
 ## COMPARATIVE PERFORMANCE STUDY ON: SALIENT360! , VR-EYETRACKING DATASETS:
 ![result-fig]
 
