@@ -12,7 +12,11 @@ video/image presents many challenges related to the storage, processing, transmi
 model for 360◦ videos. The attention mechanism explicitly encodes global static visual attention allowing expert models to focus on learning the saliency on local patches throughout consecutive frames. We compare the proposed approach to other state-ofthe-art saliency models on two datasets: Salient360! and VREyeTracking. Experimental results on over 80 ODV videos (75K+ frames) show that the proposed method outperforms the existing state-of-the-art.
 
 ## Publication :
-Find the extended pre-print version of our work on [arXiv](https://) ,if this project has been helpful to your work ,Please cite with the following Bibtex code:
+Find the extended pre-print version of our work on [arXiv](https://) .
+
+- Reference 
+
+if this project has been helpful to your work ,Please cite with the following Bibtex code:
 
 ```
 @article{Mtliba-2020-ATSal,
@@ -34,6 +38,8 @@ Cite with human friendly style :
 
 [architecture-fig]: https://raw.githubusercontent.com/mtliba/ATSal/asset/image/model.PNG
 "ATSal architecture"
+
+
 
 ## COMPARATIVE PERFORMANCE STUDY ON: SALIENT360! , VR-EYETRACKING DATASETS:
 ![result-fig]
