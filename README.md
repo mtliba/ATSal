@@ -34,3 +34,10 @@ Cite with human friendly style :
 
 [architecture-fig]: https://raw.githubusercontent.com/mtliba/ATSal/asset/image/model.PNG
 "ATSal architecture"
+
+## COMPARATIVE PERFORMANCE STUDY ON: SALIENT360! , VR-EYETRACKING DATASETS:
+![result-fig]
+
+[result-fig]: https://github.com/mtliba/ATSal/blob/asset/image/result.PNG?raw=true
+
+
