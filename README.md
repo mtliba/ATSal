@@ -17,6 +17,6 @@ month = {July},
 year = {2020}
 }
 ```
-cite with human friendly style :
-Yasser Dahou, Marouane Tliba, Kevin McGuinnessand Noel E. O’Connor
-"ATSal : An Attention Based Architecture for Saliency Prediction in 360◦ Videos"
+Cite with human friendly style :
+*Yasser Dahou, Marouane Tliba, Kevin McGuinnessand Noel E. O’Connor
+"ATSal : An Attention Based Architecture for Saliency Prediction in 360◦ Videos"*
