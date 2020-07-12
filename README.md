@@ -10,11 +10,13 @@ Find the extended pre-print version of our work on [arXiv](https://) ,if this pr
 
 ```
 @article{Mtliba-2020-ATSal,
-author = {Marouane, Tliba and Yasser, Dahou and McGuinness, Kevin and O'Connor, Noel},
+author = {Yasser, Dahou and Marouane, Tliba and McGuinness, Kevin and O'Connor, Noel},
 title = {ATSal : An Attention Based Architecture for Saliency Prediction in 360◦ Videos},
 journal = {arXiv},
 month = {July},
 year = {2020}
 }
 ```
-
+cite with human friendly style :
+Yasser Dahou, Marouane Tliba, Kevin McGuinnessand Noel E. O’Connor
+"ATSal : An Attention Based Architecture for Saliency Prediction in 360◦ Videos"
