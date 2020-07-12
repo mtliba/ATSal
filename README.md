@@ -1,5 +1,8 @@
 # ATSal : An Attention Based Architecture for Saliency Prediction in 360◦ Videos
-
+![](https://img.shields.io/badge/python-v3.6.8-orange.svg?style=flat-square)
+![](https://img.shields.io/badge/torch >= v1.2.0-orange.svg?style=flat-square)
+![](https://img.shields.io/badge/torchvision>= v0.4.0-orange.svg?style=flat-square)
+![](https://img.shields.io/badge/opencv-python-v4.0.0.21-orange.svg?style=flat-square)
 ## Abstract :
 The spherical domain representation of 360◦
 video/image presents many challenges related to the storage, processing, transmission and rendering of omnidirectional videos (ODV). Models of human visual attention can be used so that only a single viewport is rendered at a time, which is important when developing systems that allow users to explore ODV with head mounted displays (HMD). Accordingly, researchers have proposed various saliency models for 360◦ video/images. This paper proposes ATSal, a novel attention based (head-eye) saliency
