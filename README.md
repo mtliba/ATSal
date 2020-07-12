@@ -18,5 +18,6 @@ year = {2020}
 }
 ```
 Cite with human friendly style :
+
 *Yasser Dahou, Marouane Tliba, Kevin McGuinnessand Noel E. O’Connor
-"ATSal : An Attention Based Architecture for Saliency Prediction in 360◦ Videos"*
+"ATSal : An Attention Based Architecture for Saliency Prediction in 360◦ Videos"arXiv. 2020.*
