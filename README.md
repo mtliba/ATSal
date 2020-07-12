@@ -61,7 +61,7 @@ ATSal expert models trained on Salient360! and VR-EyeTracking video dataset:
 
 ## DATASETS:
 
-*link to augmented Salient360! and Sitzman image dataset:
+*link to augmented Salient360! and Sitzman Image DATASETS:
 [augmented-static-dataset](http://)
 
 *link to reproduced VR-EYETRACKING DATASETS:
