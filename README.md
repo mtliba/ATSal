@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/python-v3.6.8-orange.svg?style=flat-square)
 ![](https://img.shields.io/badge/pytorch-v1.2.0-orange.svg?style=flat-square)
 ![](https://img.shields.io/badge/torchvision-v0.4.0-orange.svg?style=flat-square)
-![](https://img.shields.io/badge/opencv-python-v4.0.0.21-orange.svg?style=flat-square)
+![](https://img.shields.io/badge/opencv-v4.0.0.21-orange.svg?style=flat-square)
 ![](https://img.shields.io/badge/numpy-v1.16.2-orange.svg?style=flat-square)
 
 
