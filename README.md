@@ -43,12 +43,19 @@ Cite with human friendly style :
 ## Model Parameters  :
 
 ATSal attention model initialization :
+
 * [[intitial (100 MB)]]()
+
 ATSal attention model trained on Salient360! and Sitzman image dataset:
+
 * [[attention-model (100 MB)]]()
+
 ATSal attention model trained on Salient360! and VR-EyeTracking video dataset:
+
 * [[ATSal-attention (100 MB)]]()
+
 ATSal expert models trained on Salient360! and VR-EyeTracking video dataset:
+
 * [[ATSal-experts-Poles (100 MB)]]()
 * [[ATSal-experts-Equator (100 MB)]]()
 
