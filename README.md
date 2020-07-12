@@ -73,3 +73,14 @@ ATSal expert models trained on Salient360! and VR-EyeTracking video dataset:
 [result-fig]: https://github.com/mtliba/ATSal/blob/asset/image/result.PNG?raw=true
 
 
+## Test model: 
+To test a pre-trained model on video data and produce saliency maps, execute the following command:
+```
+cd test/weight
+weight.sh
+
+cd ..
+python test -'path to your video dataset' -'output path'
+
+```
+
