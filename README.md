@@ -29,7 +29,8 @@ Cite with human friendly style :
 
 *Yasser Dahou, Marouane Tliba, Kevin McGuinnessand Noel E. O’Connor
 "ATSal : An Attention Based Architecture for Saliency Prediction in 360◦ Videos"arXiv. 2020.*
-
+## Head end Eye movment prediction in omnidirectonal video :
+Is the task that aims to modelthe gaze fixation distribution patterns of humans on static and dynamic omnidirectional scenes,due to the predicted saliency map which idefined as a heatmaps of probabilities, where every probability corresponds to how likely it is that the corresponding pixel willattract human attention, so it could be used to  prioterized the information across space time for videos,this task is quit beneficial in a variousof computer vision applications including image and video compression, image segmentation, object recognition, etc.
 ## Model Architecture  :
 
 ![architecture-fig]
