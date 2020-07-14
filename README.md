@@ -84,7 +84,8 @@ python test -'path to your video dataset' -'output path'
 
 ## Demo:
 
-![](https://github.com/mtliba/ATSal/blob/asset/image/output%20(1).gif)
+![](https://github.com/mtliba/ATSal/blob/asset/image/output62.gif)
+![](https://github.com/mtliba/ATSal/blob/asset/image/output%20(4).gif)
 ## Contact:
 For questions, bug reports, and suggestions about this work, please create an [issue](https://github.com/mtliba/ATSal/issues) in this repository or send an email to mtliba@inttic.dz .
 
