@@ -12,6 +12,21 @@ video/image presents many challenges related to the storage, processing, transmi
 model for 360◦ videos. The attention mechanism explicitly encodes global static visual attention allowing expert models to focus on learning the saliency on local patches throughout consecutive frames. We compare the proposed approach to other state-ofthe-art saliency models on two datasets: Salient360! and VREyeTracking. Experimental results on over 80 ODV videos (75K+ frames) show that the proposed method outperforms the existing state-of-the-art.
 
 ## Reference :
+| ![Yasser Dahou][YasserDahou-photo]  | ![Marouane Tliba][MarouaneTliba-photo]  |  ![Kevin McGuinness][KevinMcGuinness-photo] | ![Noel O'Connor][NoelOConnor-photo] |
+|:-:|:-:|:-:|:-:|
+| Yasser Dahou | Marouane Tliba | [Kevin McGuinness][KevinMcGuinness-web] | [Noel O'Connor][NoelOConnor-web] |  
+
+
+[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
+[NoelOConnor-web]: https://www.insight-centre.org/users/noel-oconnor
+
+
+[YasserDahou-photo]: https://github.com/mtliba/ATSal/blob/asset/image/out%20(2).png "Yasser Dahou"
+[KevinMcGuinness-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-salgan-2017/junting/authors/Kevin160x160%202.jpg?token=AFOjyZmLlX3ZgpkNe60Vn3ruTsq01rD9ks5YdAaiwA%3D%3D "Kevin McGuinness"
+
+[NoelOConnor-photo]: https://www.dcu.ie/sites/default/files/images/phonebook/noel_o_connor_002.jpg "Noel O'Connor"
+[MarouaneTliba-photo]: https://github.com/mtliba/ATSal/blob/asset/image/out%20(1).png "Marouane Tliba"
+
 Find the extended pre-print version of our work on [arXiv](https://) .
 
 if this project has been helpful to your work ,Please cite with the following Bibtex code:
@@ -84,6 +99,7 @@ python test -'path to your video dataset' -'output path'
 ```
 
 ## Demo:
+Here we are providing a comparison between attention stream, expert stream, and our final model ATSal, as shown bellow the attention stream overestimate salient area where it predicts the static global attention, the expert models predict dynamic saliency on each viewport independently based on its content and location but still introduce artifact on viewports boundaries and ignore the global attention statistic, unlike the fusion of both streams 'ATSal model' that is better at attending salient information distribution over space and time. 
 
 ![](https://github.com/mtliba/ATSal/blob/asset/image/output62.gif)
 ![](https://github.com/mtliba/ATSal/blob/asset/image/output%20(4).gif)
