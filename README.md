@@ -29,6 +29,7 @@ model for 360◦ videos. The attention mechanism explicitly encodes global stati
 
 Find the extended pre-print version of our work on [arXiv](https://) .
 
+''''
 if this project has been helpful to your work ,Please cite with the following Bibtex code:
 
 ```
@@ -44,6 +45,7 @@ Cite with human friendly style :
 
 *Yasser Dahou, Marouane Tliba, Kevin McGuinnessand Noel E. O’Connor
 "ATSal : An Attention Based Architecture for Saliency Prediction in 360◦ Videos"arXiv. 2020.*
+''''
 ## Head end Eye movment prediction in omnidirectonal video :
 Is the task that aims to model the gaze fixation distribution patterns of humans on static and dynamic omnidirectional scenes, due to the predicted saliency map which defined as a heatmap of probabilities, where every probability corresponds to how likely it is that the corresponding pixel will attract human attention, so it could be used to prioritize the information across space and time for videos, this task is quite beneficial in a variety of computer vision applications including image and video compression, image segmentation, object recognition, etc.
 ## Model Architecture  :
