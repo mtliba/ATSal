@@ -74,7 +74,7 @@ ATSal expert models trained on Salient360! and VR-EyeTracking video dataset:
 * [[ATSal-experts-Equator (100 MB)]]()
 
 ## DATASETS:
-
+saliency prediction studies in 360◦images are still limited.  The  absence  of  common  head and eye-gaze datasets for 360◦content and difficulties of their reproducibility compared with publicly provided 2D stimuli dataset could be one of the reasons that have hindered progress in the development of computational saliency models on this front so that here we are providing a reproduced version of VR- EyeTracking Dataset with 215 videos,  and  an augmented version of Sitzmann_TVCG_VR  dataset with 440 images. 
 * link to augmented Salient360! and Sitzman Image DATASETS:
 [augmented-static-dataset](http://)
 
