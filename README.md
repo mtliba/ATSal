@@ -45,20 +45,20 @@ Is the task that aims to model the gaze fixation distribution patterns of humans
 
 ATSal attention model initialization :
 
-* [[intitial (100 MB)]]()
+* [[intitial (374 MB)]](https://drive.google.com/file/d/1qT4tALLSGmsRfqf_dJ-1nhS_3iT4fFMg/view?usp=sharing)
 
 ATSal attention model trained on Salient360! and Sitzman image dataset:
 
-* [[attention-model (100 MB)]]()
+* [[attention-model (374 MB)]](https://drive.google.com/file/d/1dGnufIVaqmKxKm1jvMn65fWa-E4sxld9/view?usp=sharing)
 
 ATSal attention model trained on Salient360! and VR-EyeTracking video dataset:
 
-* [[ATSal-attention (100 MB)]]()
+* [[ATSal-attention (374 MB)]](https://drive.google.com/file/d/18tqbKvKgm7jsWUul0F0QsGhKYTg9XOrA/view?usp=sharing)
 
 ATSal expert models trained on Salient360! and VR-EyeTracking video dataset:
 
-* [[ATSal-experts-Poles (100 MB)]]()
-* [[ATSal-experts-Equator (100 MB)]]()
+* [[ATSal-experts-Poles (364 MB)]](https://drive.google.com/file/d/1N0u-jZEU6042F2YJDaTvXyCLcv5m-3Tj/view?usp=sharing)
+* [[ATSal-experts-Equator (364 MB)]](https://drive.google.com/file/d/1l1DuvpTeqkS5wJhdHPEdGwxBmi4EFaAc/view?usp=sharing)
 
 ## DATASETS:
 saliency prediction studies in 360◦images are still limited.  The  absence  of  common  head and eye-gaze datasets for 360◦content and difficulties of their reproducibility compared with publicly provided 2D stimuli dataset could be one of the reasons that have hindered progress in the development of computational saliency models on this front so that here we are providing a reproduced version of VR- EyeTracking Dataset with 215 videos,  and  an augmented version of Sitzmann_TVCG_VR  dataset with 440 images. 
