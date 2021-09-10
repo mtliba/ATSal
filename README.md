@@ -11,21 +11,7 @@ The spherical domain representation of 360◦
 video/image presents many challenges related to the storage, processing, transmission and rendering of omnidirectional videos (ODV). Models of human visual attention can be used so that only a single viewport is rendered at a time, which is important when developing systems that allow users to explore ODV with head mounted displays (HMD). Accordingly, researchers have proposed various saliency models for 360◦ video/images. This paper proposes ATSal, a novel attention based (head-eye) saliency
 model for 360◦ videos. The attention mechanism explicitly encodes global static visual attention allowing expert models to focus on learning the saliency on local patches throughout consecutive frames. We compare the proposed approach to other state-ofthe-art saliency models on two datasets: Salient360! and VREyeTracking. Experimental results on over 80 ODV videos (75K+ frames) show that the proposed method outperforms the existing state-of-the-art.
 
-## Reference :
-| ![Yasser Dahou][YasserDahou-photo]  | ![Marouane Tliba][MarouaneTliba-photo]  |  ![Kevin McGuinness][KevinMcGuinness-photo] | ![Noel O'Connor][NoelOConnor-photo] |
-|:-:|:-:|:-:|:-:|
-| Yasser Dahou | Marouane Tliba | [Kevin McGuinness][KevinMcGuinness-web] | [Noel O'Connor][NoelOConnor-web] |  
 
-
-[KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
-[NoelOConnor-web]: https://www.insight-centre.org/users/noel-oconnor
-
-
-[YasserDahou-photo]: https://github.com/mtliba/ATSal/blob/asset/image/out%20(2).png "Yasser Dahou"
-[KevinMcGuinness-photo]: https://raw.githubusercontent.com/imatge-upc/saliency-salgan-2017/junting/authors/Kevin160x160%202.jpg?token=AFOjyZmLlX3ZgpkNe60Vn3ruTsq01rD9ks5YdAaiwA%3D%3D "Kevin McGuinness"
-
-[NoelOConnor-photo]: https://www.dcu.ie/sites/default/files/images/phonebook/noel_o_connor_002.jpg "Noel O'Connor"
-[MarouaneTliba-photo]: https://github.com/mtliba/ATSal/blob/asset/image/out%20(1).png "Marouane Tliba"
 
 Find the extended pre-print version of our work on [arXiv](https://) .
 
